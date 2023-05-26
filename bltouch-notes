@@ -1,0 +1,5 @@
+It's on my backlog to document the BLTouch configuration, but in the image:
+- Endstop and Ground pins go to Z+ (black+white)
+- Servo GND and 5V to MT_DET (brown+red)
+- Servo Signal to the far right pin on the green header row (orange)
+And the pin config should be in the '3dtouch' branch
